@@ -1,9 +1,8 @@
 petulant-sansa
 firstone
-10 # edited the same first line
-10 # editing
-20 # edited
-30 # edited
+10 
+20 
+30
 4
 5
 6
@@ -11,3 +10,5 @@ firstone
 8
 9
 0 Added in master branch.
+
+## everything fixed in a new branch manohar_branch
