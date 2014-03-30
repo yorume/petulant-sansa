@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 petulant-sansa
 ==============
 
@@ -12,3 +13,6 @@ firstone
 8
 9
 0 Added in master branch.
+=======
+this is chnage in a fixreadme branch
+>>>>>>> fixreadme
