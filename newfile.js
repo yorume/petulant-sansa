@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-this file from master
-=======
-a new file in fixreadme branch
->>>>>>> fixreadme
+this is new contents from master
