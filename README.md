@@ -3,7 +3,7 @@ petulant-sansa
 ==============
 
 firstone
-10 # edited
+10 # editing
 20 # edited
 30 # edited
 4
@@ -13,6 +13,3 @@ firstone
 8
 9
 0 Added in master branch.
-=======
-this is chnage in a fixreadme branch
->>>>>>> fixreadme
